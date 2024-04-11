@@ -2,6 +2,7 @@
 
 class Program {
   public static void Main (string[] args) {
+		//Let's call our functions to investigate what's happening...
 		WeirdIntegers();
     WeirdFloats();
   }
