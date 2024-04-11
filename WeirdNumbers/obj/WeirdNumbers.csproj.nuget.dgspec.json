@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj": {}
+    "C:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj": {
+    "C:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj",
         "projectName": "WeirdNumbers",
-        "projectPath": "c:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj",
+        "projectPath": "C:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\WeirdNumbers.csproj",
         "packagesPath": "C:\\Users\\EdwardsD.AD\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\obj\\",
+        "outputPath": "C:\\Users\\EdwardsD.AD\\OneDrive - Herefordshire & Ludlow College\\Code\\repos\\weirdNumbers\\WeirdNumbers\\WeirdNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
