@@ -1,0 +1,15 @@
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\bin\Debug\net6.0\WeirdNumbers.exe
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\bin\Debug\net6.0\WeirdNumbers.deps.json
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\bin\Debug\net6.0\WeirdNumbers.runtimeconfig.json
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\bin\Debug\net6.0\WeirdNumbers.dll
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\bin\Debug\net6.0\ref\WeirdNumbers.dll
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\bin\Debug\net6.0\WeirdNumbers.pdb
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.csproj.AssemblyReference.cache
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.AssemblyInfoInputs.cache
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.AssemblyInfo.cs
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.csproj.CoreCompileInputs.cache
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.dll
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\ref\WeirdNumbers.dll
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.pdb
+c:\Users\EdwardsD.AD\OneDrive - Herefordshire & Ludlow College\Code\repos\weirdNumbers\WeirdNumbers\WeirdNumbers\obj\Debug\net6.0\WeirdNumbers.genruntimeconfig.cache
